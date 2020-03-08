@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WordPlay
+comment0.text=\r\n\ WordPlay\ transforms\ words\ from\ a\ file\ into\ another\ form.see\ README.TXT\r\n\ \r\n\ \ N11c\r\n\ @author\ Dimgba\ Martha\ Otisi\ \r\n\ @2020,January\r\n\ @martha_samuel_\r\n\ \r\n
+comment1.params=ch
+comment1.target=boolean\ isVowel(char)
+comment2.params=
+comment2.target=void\ isVoweltest()
+comment3.params=phrase\ ch
+comment3.target=java.lang.String\ replaceableVowels(java.lang.String,\ char)
+comment4.params=
+comment4.target=void\ replaceableVowelstest()
+comment5.params=phrase\ ch
+comment5.target=java.lang.String\ emphasize(java.lang.String,\ char)
+comment6.params=
+comment6.target=void\ emphasizetest()
+numComments=7
